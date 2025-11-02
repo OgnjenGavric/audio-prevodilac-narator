@@ -1,4 +1,3 @@
-
 import { Language } from './types';
 
 export const LANGUAGES: Language[] = [
@@ -42,12 +41,9 @@ export const LANGUAGES: Language[] = [
   { code: 'lv', name: 'Letonski', englishName: 'Latvian' },
   { code: 'et', name: 'Estonski', englishName: 'Estonian' },
   { code: 'fa', name: 'Persijski', englishName: 'Persian' },
-  { code: 'ur', name: 'Urdu', englishName: 'Urdu' },
   { code: 'sw', name: 'Svahili', englishName: 'Swahili' },
   { code: 'af', name: 'Afrikans', englishName: 'Afrikaans' },
   { code: 'zu', name: 'Zulu', englishName: 'Zulu' },
-  { code: 'xh', name: 'Kosa', englishName: 'Xhosa' },
-  { code: 'am', name: 'Amharski', englishName: 'Amharic' },
   { code: 'ga', name: 'Irski', englishName: 'Irish' },
   { code: 'cy', name: 'Velški', englishName: 'Welsh' },
   { code: 'is', name: 'Islandski', englishName: 'Icelandic' },
