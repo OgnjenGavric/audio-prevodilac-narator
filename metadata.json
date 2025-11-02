@@ -1,0 +1,7 @@
+{
+  "name": "Audio prevodilac & narator",
+  "description": "Otpremite ili snimite audio, transkribujte ga na srpski, prevedite na više jezika i generišite glasovnu naraciju za svaki prevod.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
